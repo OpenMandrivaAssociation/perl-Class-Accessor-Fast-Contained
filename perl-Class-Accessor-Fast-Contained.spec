@@ -12,7 +12,7 @@ Name: perl-Class-Accessor-Fast-Contained
 Version: 1.01
 Release: %mkrel 1
 License: Artistic/GPL
-Group: Applications/CPAN
+Group: Development/Perl
 URL: http://search.cpan.org/dist/Class-Accessor-Fast-Contained/
 Source: http://www.cpan.org/modules/by-module/Class/Class-Accessor-Fast-Contained-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
