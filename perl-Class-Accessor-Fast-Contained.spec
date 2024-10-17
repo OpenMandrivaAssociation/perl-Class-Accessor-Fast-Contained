@@ -13,7 +13,7 @@ Version:	1.01
 Release:	4
 License:	Artistic/GPL
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/Class-Accessor-Fast-Contained/
+URL:		https://search.cpan.org/dist/Class-Accessor-Fast-Contained/
 Source:		http://www.cpan.org/modules/by-module/Class/Class-Accessor-Fast-Contained-%{version}.tar.gz
 
 BuildRequires:	perl-devel
