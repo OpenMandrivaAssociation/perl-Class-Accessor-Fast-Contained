@@ -16,6 +16,7 @@ Group:		Development/Perl
 URL:		https://search.cpan.org/dist/Class-Accessor-Fast-Contained/
 Source:		http://www.cpan.org/modules/by-module/Class/Class-Accessor-Fast-Contained-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(ExtUtils::MakeMaker)
 BuildRequires:	perl(Test::More)
